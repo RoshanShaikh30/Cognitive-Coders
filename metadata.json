@@ -1,0 +1,12 @@
+{
+  "name": "AttendSphere AI",
+  "description": "Multi-Organization Smart Attendance & Analytics Platform with subtle Sakura accents, QR attendance, face recognition, and Gemini AI predictive analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
